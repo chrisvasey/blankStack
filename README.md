@@ -1,4 +1,8 @@
 blankStack
 ==========
 
-Blank Website project with all stack imported: LESS, jQuery, Bootstrap, Font Awesome
+Blank Website project with all frameworks imported including:
+*LESS
+*jQuery
+*Bootstrap
+*Font Awesome
